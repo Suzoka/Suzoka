@@ -1,10 +1,10 @@
 -👋 Bonjour, moi c'est @Suzoka, ou Morgan
 
--👀 J'aime beaucoup l'informatique en général, et code même en dehors de mes cours
+-💞 J'aime beaucoup l'informatique en général, et code même en dehors de mes cours
 
--🌱 Je connais très bien le C et apprend le JavaScript, l'HTML et le CSS
+-💻 Je connais très bien le C et apprend le JavaScript, l'HTML et le CSS
 
--💞️ Je suis actuellement élève en BUT MMI
+-🎓 Je suis actuellement élève en BUT MMI
 
 -📫 Vous pouvez me contacter à : mor9an77@gmail.com ou sur Discord : suzoka#0654
 <!--
