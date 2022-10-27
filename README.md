@@ -2,9 +2,9 @@
 
 -👀 J'aime beaucoup l'informatique en général, et code même en dehors de mes cours
 
--🌱 Je travail surtout en C, mais aimerai pouvoir apprendre d'autres langages
+-🌱 Je connais très bien le C et apprend le JavaScript, l'HTML et le CSS
 
--💞️ J'adorerai pouvoir entrer dans un DUT en informatique, ou en MMI
+-💞️ Je suis actuellement élève en BUT MMI
 
 -📫 Vous pouvez me contacter à : mor9an77@gmail.com ou sur Discord : suzoka#0654
 <!--
