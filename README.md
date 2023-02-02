@@ -1,4 +1,4 @@
--👋 Bonjour, moi c'est @Suzoka, ou Morgan
+-👋 Bonjour, moi c'est Morgan, ou suzoka sur les réseaux
 
 -💞 J'aime beaucoup l'informatique en général, et code même en dehors de mes cours
 
