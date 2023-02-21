@@ -1,10 +1,10 @@
 -👋 Bonjour, moi c'est Morgan, ou suzoka sur les réseaux
 
--💞 J'aime beaucoup l'informatique en général, et code même en dehors de mes cours
+-💞 J'aime beaucoup l'informatique, la photo, les sports nautiques et l'escalade
 
--💻 Je connais très bien le C et apprend le JavaScript, l'HTML et le CSS
+-💻 Je connais le C et apprend le JavaScript, le HTML et le CSS
 
--🎓 Je suis actuellement élève en BUT MMI
+-🎓 Je suis actuellement élève en BUT MMI et suis co-dev sur le serveur Bouteille à la mer : https://discord.gg/hUUCeKHpye
 
 -📫 Vous pouvez me contacter à : mor9an77@gmail.com ou sur Discord : suzoka#0654
 <!--
