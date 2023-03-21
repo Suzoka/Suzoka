@@ -2,7 +2,7 @@
 
 -💞 J'aime beaucoup l'informatique, la photo, les sports nautiques et l'escalade
 
--💻 Je connais le C et apprend le JavaScript, le HTML et le CSS
+-💻 Je connais le C et apprend le JavaScript, le HTML le CSS et le PHP
 
 -🎓 Je suis actuellement élève en BUT MMI et suis co-dev sur le serveur Bouteille à la mer : https://discord.gg/hUUCeKHpye
 
