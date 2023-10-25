@@ -2,11 +2,11 @@
 
 -💞 J'aime beaucoup l'informatique, la photo, les sports nautiques et l'escalade
 
--💻 Je connais le C et apprend le JavaScript, le HTML le CSS et le PHP
+-💻 Je connais le HTML, le CSS, le JavaScript et le PHP, ainsi que le SQL
 
 -🎓 Je suis actuellement élève en BUT MMI et suis co-dev sur le serveur Bouteille à la mer : https://discord.gg/hUUCeKHpye
 
--📫 Vous pouvez me contacter à : mor9an77@gmail.com ou sur Discord : suzoka#0654
+-📫 Vous pouvez me contacter à : morgan.zarka@edu.univ-eiffel.fr ou sur Discord : suzoka#0654
 <!--
 **Suzoka/Suzoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
