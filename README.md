@@ -7,6 +7,9 @@
 -🎓 Je suis actuellement élève en BUT MMI et suis co-dev sur le serveur Bouteille à la mer : https://discord.gg/hUUCeKHpye
 
 -📫 Vous pouvez me contacter à : morgan.zarka@edu.univ-eiffel.fr ou sur Discord : suzoka#0654
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzoka)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Suzoka/Suzoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
