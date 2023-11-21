@@ -8,7 +8,11 @@
 
 -📫 Vous pouvez me contacter à : morgan.zarka@edu.univ-eiffel.fr ou sur Discord : suzoka#0654
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzoka)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzoka" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suzoka" alt="Suzoka" /></a>
 
 <!--
 **Suzoka/Suzoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
