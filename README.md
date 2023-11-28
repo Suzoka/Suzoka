@@ -8,8 +8,6 @@
 
 -📫 Vous pouvez me contacter à : morgan.zarka@edu.univ-eiffel.fr ou sur Discord : suzoka#0654
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suzoka" alt="Suzoka" /></a>
-
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzoka" />
