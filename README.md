@@ -6,7 +6,7 @@
 
 -🎓 Je suis actuellement élève en BUT MMI et suis co-dev sur le serveur Bouteille à la mer : https://discord.gg/hUUCeKHpye
 
--📫 Vous pouvez me contacter à : morgan.zarka@edu.univ-eiffel.fr ou sur Discord : suzoka#0654
+-📫 Vous pouvez me contacter à : morgan.zarka@edu.univ-eiffel.fr ou sur Discord : suzoka
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
